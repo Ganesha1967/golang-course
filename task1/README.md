@@ -22,7 +22,7 @@ go build -o analyzeRepo
 Run the program by passing the full URL of the repository you want to analyze as a command-line argument:
 
 ```bash
-./analyzeRepo [https://github.com/Ganesha1967/golang-course](https://github.com/Ganesha1967/golang-course)
+./analyzeRepo https://github.com/Ganesha1967/golang-course
 
 ```
 
